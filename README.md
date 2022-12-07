@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @owenizedd
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently deepening my knowledge in Frontend while also sometimes Backend
+- 🌱 I love frontend and logic stuff
 
 <!---
 owenizedd/owenizedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
