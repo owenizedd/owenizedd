@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @owenizedd
+- 👋 Hi, I’m Owen, I came from in remote city (Takengon) in Indonesia 🇮🇩
+- 🏫 I studied at University Mikroskil (2016-2020) and was part of Competitive Programming Club
 - 👀 I’m interested in Software Engineering
 - 🌱 I love frontend and logic stuff
 
