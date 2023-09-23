@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Owen, Originally from a remote small town up on the mountain (Takengon) in Indonesia 🇮🇩
+- 👋 Hi, I’m Owen, Originally from a remote small town up on the mountain (Takengon) in Indonesia 
 - 🏫 I studied at University Mikroskil (2016-2020) and was part of Competitive Programming Club
 - 👀 I’m interested in Software Engineering
 - 🌱 I love fullstack engineering now
