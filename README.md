@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Owen
 - 🏫 I studied at University Mikroskil (2016-2020)
-- 👀 I’m interested in Software Engineering and a VSCode typist
-- 🌱 I love fullstack engineering now
+- 🌱 I am interested in fullstack software engineering.
+- Daily Work with Node, TypeScript, Bun, Python, PG, React, Next.
+- Learning more Rust in my leisure time.
 
 <!---
 owenizedd/owenizedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
