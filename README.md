@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Owen
 - 🏫 I studied at University Mikroskil (2016-2020)
-- 🌱 I am interested in fullstack software engineering.
-- 💻 Working daily with Node, TypeScript, Bun, Python, PG, React, Next.
+- 💻 Working fullstack engineering daily with Node, TypeScript, Bun, Python, PG, React, Next.
 - 🦀 Learning more Rust in my leisure time.
 
 <!---
