@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Owen
 - 💻 Working fullstack engineering daily with Node, TypeScript, Bun, Python, PG, React, Next.
-- 🦀 Learning more Rust in my leisure time.
+- 🦀 Learning more Deep Learning, AI & Rust in my leisure time.
 
 <!---
 owenizedd/owenizedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
